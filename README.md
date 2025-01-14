@@ -35,51 +35,75 @@ The game ends when one player reaches 11 points.
 There are 12 heroes to choose from. Each hero has a unique skill and stats.
 
 #### Barbarian
+
 Skill: Raging Smash
+
 Raging Smash increases Power by 2 if a volley is successful.
 
 #### Bard
+
 Skill: Inspiring Tune
+
 Inspiring Tune grants 1 additional Speed and Power every time a perfect volley is made.
 
 #### Cleric
+
 Skill: Divine Recovery
+
 Divine Recovery restores 25% stamina at the start of every turn.
 
 #### Druid
+
 Skill: Nature's Harmony
+
 Nature's Harmony increases Speed by 2 when attacked.
 
 #### Fighter
+
 Skill: Battle Resolve
+
 After losing a point, the Battle Resolve increases all stats by 1.
 
 #### Monk
+
 Skill: Zen Focus
+
 While using Zen Focus volleys do not consume stamina.
 
 #### Paladin
+
 Skill: Holy Presence
+
 Holy Presence reduces the opponent's Power stat by 50%.
 
 #### Ranger
+
 Skill: Hunter's Precision
+
 Hunter's Precision doubles speed for the first volley.
 
 #### Rogue
+
 Skill: Sudden Strike
+
 Sudden Strike increases Power x2 for every perfect volley.
 
 #### Sorcerer
+
 Skill: Arcane Surge
+
 For every perfect volley Arcane Surge restores 5 stamina and increases Speed by 1.
 
 #### Warlock
+
 Skill: Soul Tether
+
 Soul Tether restores 10 stamina for every successfully volley.
 
 #### Wizard
+
 Skill: Arcane Focus
+
 Perfect volleys reduce the opponents stamina by 10 and increases Speed by 1.
 
 ## Running Squashbound
