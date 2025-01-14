@@ -15,6 +15,7 @@ import 'package:squashbound/model/heroes/warlock_hero_card.dart';
 import 'package:squashbound/model/heroes/wizard_hero_card.dart';
 import 'package:squashbound/screens/battle/coin.dart';
 import 'package:squashbound/screens/home.dart';
+import 'package:squashbound/theme.dart';
 import 'package:squashbound/widgets/cards/card.dart';
 
 class SelectionScreen extends StatefulWidget {
@@ -147,6 +148,13 @@ class _SelectionScreenState extends State<SelectionScreen> {
                           ),
                       ],
                     ),
+                    Padding(
+                      padding: const EdgeInsets.all(8.0),
+                      child: Text(
+                        "All artwork Designed by Freepik",
+                        style: SquashboundTheme.textTheme.bodySmall,
+                      ),
+                    )
                   ],
                 ),
               ),
