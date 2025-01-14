@@ -1,11 +1,11 @@
 {
-    "name": "squashbound",
-    "short_name": "squashbound",
+    "name": "Squashbound",
+    "short_name": "Squashbound",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#221D1B",
+    "theme_color": "#221D1B",
+    "description": "Squashbound is a game where you play a very simplified game of squash using a hero of your choice.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
